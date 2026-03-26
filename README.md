@@ -49,6 +49,8 @@ A high-frequency **asynchronous financial monitoring engine** designed to track 
 ## 📡 API Documentation
 
 > **⚠️ Restriction:** This API **strictly accepts** Yahoo Finance URLs only.
+
+
 **Only Yahoo Finance urls**
 
 ### 1\. Initialize Engine (The Tracker)
